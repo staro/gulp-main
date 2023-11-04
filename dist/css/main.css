@@ -1,0 +1,21 @@
+.header {
+  background-color: rgb(213, 176, 96);
+  padding: 60px 0;
+  font-size: 26px;
+  color: #333;
+  text-align: center;
+}
+
+.footer {
+  background-color: #2e8e69;
+  padding: 60px 0;
+  font-size: 26px;
+  color: #fff;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
